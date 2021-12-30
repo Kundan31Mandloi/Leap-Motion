@@ -27,3 +27,5 @@ This project is the Combination of Hardware and Software using which we can acce
    viii) If you forget the rule than keep your hands on both the sensors, Rules will be repeated again
 3) Code which needs to be written in Arduino is also attached
 4) We can use the Same functionality, if we want to build **Blind Stick**
+
+**I have attached Demo Image and Video**
